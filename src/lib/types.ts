@@ -36,3 +36,9 @@ type ProductData = {
   url: string;
   variant_sku: string[];
 };
+
+type SortData = {
+  field: string;
+  direction: string;
+  label: string;
+};
