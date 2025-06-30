@@ -6,7 +6,7 @@ type ProductData = {
   id: string;
   imageUrl: string;
   intellisuggestData: string;
-  intellisuggestSignaturae: string;
+  intellisuggestSignature: string;
   mfield_filter_colour: string[];
   mfield_filter_globe_base: string[];
   mfield_filter_height: string[];

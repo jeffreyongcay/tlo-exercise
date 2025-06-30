@@ -41,21 +41,6 @@
         "field": "ss_price",
         "direction": "desc",
         "label": "Price, High to Low"
-      },
-      {
-        "field": "created_at",
-        "direction": "asc",
-        "label": "Date, Old to New"
-      },
-      {
-        "field": "created_at",
-        "direction": "desc",
-        "label": "Data, New to Old"
-      },
-      {
-        "field": "mfield_okendo_reviewaveragevalue",
-        "direction": "desc",
-        "label": "Reviews"
       }
     ]
   },
