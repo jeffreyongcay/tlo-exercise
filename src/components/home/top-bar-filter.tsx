@@ -120,7 +120,7 @@ const TopBarFilter: React.FC<Props> = ({
           {pluralize(filteredProducts?.length ?? 0, "Product")}
         </h1>
       </div>
-      <div className="flex items-center flex-wrap">
+      <div className="flex items-center flex-wrap space-x-9">
         <div className="flex items-center w-[400px] space-x-2">
           <span className="text-sm text-gray-500">Price</span>
           <DualRangeSlider
